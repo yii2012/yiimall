@@ -1,0 +1,206 @@
+2014/02/12 12:14:03 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:03 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:03 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:03 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:03 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:03 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:22 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:22 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:22 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:22 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:22 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:22 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:41 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "log" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "request" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "urlManager" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.CModule] Loading "cache" application component
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Serving "Yii.CUrlManager.rules" from cache
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/12 12:14:42 [trace] [system.caching.CMemCache] Saving "people" to cache
+in F:\wamp\www\yii\demos\yiimall\protected\controllers\SiteController.php (33)
+in F:\wamp\www\yii\demos\yiimall\index.php (13)
+2014/02/20 10:31:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "dispatch"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('dispatch')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/index.php/dispatch
+---
+2014/02/20 18:36:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/02/20 18:36:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/02/20 18:36:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/02/21 09:32:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/02/21 09:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/02/21 09:32:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "favicon.ico"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/02/21 09:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'No es posible resolver la solicitud "dispatch"' in F:\wamp\www\yiimall\framework\web\CWebApplication.php:286
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController('dispatch')
+#1 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 F:\wamp\www\yiimall\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/dispatch
+---
+2014/02/21 09:44:23 [error] [php] Memcache::increment() [<a href='memcache.increment'>memcache.increment</a>]: No servers added to memcache connection (F:\wamp\www\yiimall\protected\controllers\SiteController.php:30)
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 F:\wamp\www\yiimall\framework\web\CController.php(286): SiteController->runAction()
+#2 F:\wamp\www\yiimall\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 F:\wamp\www\yiimall\framework\web\CWebApplication.php(282): SiteController->run()
+#4 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 F:\wamp\www\yiimall\index.php(13): CWebApplication->run()
+REQUEST_URI=/site/dispatch
+in F:\wamp\www\yiimall\protected\controllers\SiteController.php (30)
+in F:\wamp\www\yiimall\index.php (13)
+2014/02/21 09:44:32 [error] [php] Memcache::increment() [<a href='memcache.increment'>memcache.increment</a>]: No servers added to memcache connection (F:\wamp\www\yiimall\protected\controllers\SiteController.php:30)
+Stack trace:
+#0 F:\wamp\www\yiimall\framework\web\CController.php(308): CInlineAction->runWithParams()
+#1 F:\wamp\www\yiimall\framework\web\CController.php(286): SiteController->runAction()
+#2 F:\wamp\www\yiimall\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#3 F:\wamp\www\yiimall\framework\web\CWebApplication.php(282): SiteController->run()
+#4 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#5 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#6 F:\wamp\www\yiimall\index.php(13): CWebApplication->run()
+REQUEST_URI=/site/dispatch
+in F:\wamp\www\yiimall\protected\controllers\SiteController.php (30)
+in F:\wamp\www\yiimall\index.php (13)
+2014/02/21 10:01:12 [error] [php] include(Memcached.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory (F:\wamp\www\yiimall\framework\YiiBase.php:427)
+Stack trace:
+#0 F:\wamp\www\yiimall\protected\controllers\SiteController.php(29): spl_autoload_call()
+#1 F:\wamp\www\yiimall\framework\web\actions\CInlineAction.php(49): SiteController->actionDispatch()
+#2 F:\wamp\www\yiimall\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 F:\wamp\www\yiimall\framework\web\CController.php(286): SiteController->runAction()
+#4 F:\wamp\www\yiimall\framework\web\CController.php(265): SiteController->runActionWithFilters()
+#5 F:\wamp\www\yiimall\framework\web\CWebApplication.php(282): SiteController->run()
+#6 F:\wamp\www\yiimall\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#7 F:\wamp\www\yiimall\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#8 F:\wamp\www\yiimall\index.php(13): CWebApplication->run()
+REQUEST_URI=/site/dispatch
+in F:\wamp\www\yiimall\protected\controllers\SiteController.php (29)
+in F:\wamp\www\yiimall\index.php (13)
